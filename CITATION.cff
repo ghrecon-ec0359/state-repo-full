@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: state-repo-full
+version: 1.0.0
+date-released: 2026-10-01
+authors:
+  - family-names: Tester
+    given-names: Test
